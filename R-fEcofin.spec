@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          290.76
-Release:          1
+Release:          2
 Summary:          Economic and Financial Data Sets
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
